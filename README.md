@@ -11,8 +11,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Express.js,
-
+- **Frameworks & Libraries:** React, Node.js, Express.js,Bootstrap, Tailwind
 - **Tools & Platforms:** Git, VS Code
 
 
